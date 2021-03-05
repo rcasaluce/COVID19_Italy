@@ -2,7 +2,7 @@
 
 This is a project that combine Google Sheets functionalities with Data wrapper tools.
 
-[Link to the WebApp](https://datawrapper.dwcdn.net/QgwtQ/4/)
+[Link to the WebApp](https://datawrapper.dwcdn.net/QgwtQ/5/)
 
 This is a dynamic map that display the new daily cases in each region, which is updated every day after 5pm (CEST).
 
